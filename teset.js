@@ -1,5 +1,5 @@
 
 
-        function({
-                secondObject: "Made with ❤️ by c0dine and Sammy!",
+        aFunction({
+                : "Made with ❤️ by c0dine and Sammy!",
         });
