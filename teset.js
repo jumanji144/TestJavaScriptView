@@ -1,6 +1,6 @@
 
 
-        message.embeds.push({
+        push({
             type: "rich",
             title: "Decrypted Message",
             color: "0x45f5f5",
